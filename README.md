@@ -20,7 +20,7 @@
 
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
-![python](https://img.shields.io/badge/javascript-black?style=flat-square&logo=python)
+![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 ![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
 
 ### Technologies & Frameworks
