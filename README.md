@@ -14,7 +14,7 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/bond120/bond120/output/github-contribution-grid-snake-dark.svg)
 
-## 🚀 Technologies & Tools
+## Technologies & Tools
 
 ### Languages
 
@@ -45,7 +45,7 @@
 ![gitlab](https://img.shields.io/badge/gitlab-black?style=flat-square&logo=gitlab)
 ![github actions](https://img.shields.io/badge/github_actions-black?style=flat-square&logo=github-actions)
 
-## ⚡ GitHub Stats
+##  GitHub Stats
 
 <p align="center">
     <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=bond120&hide_border=true&theme=dark" />
