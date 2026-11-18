@@ -1,14 +1,15 @@
 <p align="center">
   <a href="https://github.com/bond120?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/bond120"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=236ad3&labelColor=1155ba&query=$.stars&url=https://api.github-star-counter.workers.dev/user/bond120&label=Stars" />
   </a>
   <a href="https://github.com/bond120?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=ff0013&labelColor=ae1206&label=forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/bond120"/>
+    <img alt="total stars" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=236ad3&labelColor=1155ba&query=$.forks&url=https://api.github-star-counter.workers.dev/user/bond120&label=Forks" />
   </a>
   <a href="https://github.com/bond120?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/bond120?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/bond120?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers" />
+  </a>
   <a href="https://github.com/bond120/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=bond120&style=for-the-badge&color=lightgrey"/>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=bond120&style=for-the-badge&color=lightgrey" />
   </a>
 </p>
 
@@ -21,6 +22,8 @@
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
+![c](https://img.shields.io/badge/c-black?style=flat-square&logo=c)
+![c++](https://img.shields.io/badge/c%2B%2B-black?style=flat-square&logo=cplusplus)
 ![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
 
 ### Technologies & Frameworks
@@ -49,6 +52,6 @@
 
 <p align="center">
     <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=bond120&hide_border=true&theme=dark" />
-    <img height="120px" src="https://github-readme-stats.vercel.app/api?username=bond120&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" />
+    <img height="120px" src="https://github-readme-stats.vercel.app/api?username=bond120&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=false&theme=dark" />
     <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bond120&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
 </p>
